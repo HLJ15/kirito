@@ -3,5 +3,8 @@
 int main()
 {
 	printf("first test");
-	return 0
+	....
+
+
+	return 0;
 }
